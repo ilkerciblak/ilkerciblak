@@ -38,10 +38,16 @@ Busso is a integrated business solutons application where users can operate thei
 * Developed and integrated robust, configurable and re-usable Iyzipay integration service using Dart language in order to conduct client-side API tasks
 * Developed and integrated Turkcell E-Invoice module that includes various client-side abilities such as mutating stocks based on issued E-invoice, issuing an E-invoice etc.
 
-#### [Dukkan Microservice App](https://github.com/ilkerciblak/DukkanMicroserviceDemo) 
+#### [A Modular Monolith E-Commerce Playground Application](https://github.com/ilkerciblak/moddev.shop)
 
-🚧 🚧 🚧 🚧 🚧
+A playground project will include three different projects, aiming to practice
+software development skills such as architectural designs (Clean Architecture), algorithms and framework
+experience. Having to say that, the project is still under development phase and has not yet been completed.
 
-A demo project repository for educational purposes on DDD Microservice Architecture with Asp.Net Core.
 
-🚧 🚧 🚧 🚧 🚧
+
+Mentioned project will include 
+- A Mobile Application
+- A Server Side Project developed with C#/ASP.NET
+- A Web Front End Project developed with React.js
+
